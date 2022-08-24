@@ -13,4 +13,4 @@ Next download the audio file or select a song of your own and update the code in
 
 Method 2: Clone the repository and upload the code onto processing, and then update the image/sound import codes
 
-To view the visualizer without running the program, click this link: https://drive.google.com/file/d/1FHtI00gltvuPORH2EJ7Wc4d8UQe8zWW-/view?usp=sharing
+ 
